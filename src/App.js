@@ -1,5 +1,7 @@
 import React from "react";
 import "./App.css";
+import Home from './components/Home'
+import NasaPhoto from './components/NasaPhoto'
 
 function App() {
   return (
